@@ -1,2 +1,2 @@
 # MATLAB-MSc-works
-MATLAB projects completed during MSc degree
+MATLAB projects completed during Sports Biomechanics MSc degree
